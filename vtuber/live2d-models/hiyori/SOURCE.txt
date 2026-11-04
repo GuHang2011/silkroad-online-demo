@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/Live2D/CubismWebSamples/develop/Samples/Resources/Hiyori/
+Official Live2D sample. See ../../LICENSE-Live2D.md in the Open-LLM-VTuber project.
+Sample motion audio is omitted; the commerce speech player owns audio.
