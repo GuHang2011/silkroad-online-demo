@@ -1,1 +1,0 @@
-import{r,o,H as t}from"./vue.f8de4c6f.js";function s(){const e=r(window.innerWidth<=700),n=()=>{e.value=window.innerWidth<=700};return o(()=>window.addEventListener("resize",n)),t(()=>window.removeEventListener("resize",n)),e}export{s as u};

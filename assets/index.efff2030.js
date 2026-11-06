@@ -1,0 +1,1 @@
+import{a as o,d as s}from"./index.1d82c9a2.js";import{g as r,u as c,B as u,D as i}from"./vue.f697732d.js";const n={prefix:Math.floor(Math.random()*1e4),current:0},d=Symbol("elIdInjection"),I=()=>u()?i(d,n):n,l=t=>{const e=I(),a=o("namespace",s);return r(()=>c(t)||`${a.value}-id-${e.prefix}-${e.current++}`)};export{I as a,l as u};

@@ -1,0 +1,1 @@
+import{a as o}from"./index.1d82c9a2.js";import{r,g as a}from"./vue.f697732d.js";const t=r(0),d=()=>{const e=o("zIndex",2e3),n=a(()=>e.value+t.value);return{initialZIndex:e,currentZIndex:n,nextZIndex:()=>(t.value++,n.value)}};export{d as u};

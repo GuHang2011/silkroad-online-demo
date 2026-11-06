@@ -1,1 +1,0 @@
-import{s as e}from"./silkroad.2e64cf74.js";const r=()=>e("/live-room","get",void 0,5e3),v=o=>e("/live-room/preview","post",o,1e4),m=(o,i,s)=>e("/live-room/control","post",{command:o,expectedRevision:i,...s||{}},1e4);export{m as c,r as g,v as p};

@@ -1,0 +1,1 @@
+import{G as e}from"./vue.f697732d.js";import{S as t}from"./storage.09fd25f1.js";const r=e("tagsViewRoutes",{state:()=>({tagsViewRoutes:[],isTagsViewCurrenFull:!1}),actions:{async setTagsViewRoutes(s){this.tagsViewRoutes=s},setCurrenFullscreen(s){t.set("isTagsViewCurrenFull",s),this.isTagsViewCurrenFull=s}}});export{r as u};

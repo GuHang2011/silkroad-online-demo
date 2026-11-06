@@ -1,0 +1,1 @@
+import{S as o}from"./storage.09fd25f1.js";import{r as f,L as l}from"./vue.f697732d.js";function p(a=()=>!0){const e=f(!1),n=o.get("token");let t=!1;const r=()=>!t&&!!n&&n===o.get("token")&&a();l(()=>{t=!0});async function s(u,i){if(!(e.value||!r())){e.value=!0;try{await u()&&r()&&await i()}finally{e.value=!1}}}return{pending:e,run:s}}export{p as u};

@@ -1,0 +1,1 @@
+import{S as t}from"./storage.09fd25f1.js";function n(r=t.get("currentUser")){return["admin","super_admin"].includes(r==null?void 0:r.role)}function o(r=t.get("currentUser")){return n(r)?"/home":"/customer"}export{n as i,o as p};
