@@ -11,6 +11,7 @@ Admin: demo_admin; customer: demo_customer. Demo password: Demo@2026.
 - Natural retail styling with warm white, deep green, warm orange price accents, and clearer typography on desktop and mobile.
 - A redesigned login with landscape photography, equally sized country flags, and a compact mobile form. Four languages and both login roles are supported.
 - Local responsive WebP photographs, photo credits, a simpler product grid, and an editorial scenery section.
+- Product-led browsing with visible sorting, grouped staff navigation, orders beside the work queue, and simpler marketing and support screens.
 - Demonstration workflows for catalog browsing, cart checkout, customer service, saved files, messages, and order fulfillment.
 - Live2D product presentations support product switching, pause/resume, and comments. AI content and payment remain simulated.
 - Smaller initial application dependencies and lossless WebP model textures reduce download size.
