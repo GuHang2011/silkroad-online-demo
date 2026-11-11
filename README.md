@@ -13,6 +13,7 @@ Admin: demo_admin; customer: demo_customer. Demo password: Demo@2026.
 - Local responsive WebP photographs, photo credits, a simpler product grid, and an editorial scenery section.
 - Product-led browsing with visible sorting, grouped staff navigation, orders beside the work queue, and simpler marketing and support screens.
 - November 10: more compact mobile shopping, accessible account menus, earlier support input, simpler profile and file pages, and task navigation with persistent save/error feedback.
+- November 11: consistent page and table typography, softer status colors, compact task guidance, and a mobile live preview entry that keeps product prices visible and restores keyboard focus on close.
 - Demonstration workflows for catalog browsing, cart checkout, customer service, saved files, messages, and order fulfillment.
 - Live2D product presentations support product switching, pause/resume, and comments. AI content and payment remain simulated.
 - Smaller initial application dependencies and lossless WebP model textures reduce download size.
