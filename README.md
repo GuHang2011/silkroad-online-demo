@@ -15,6 +15,7 @@ Admin: demo_admin; customer: demo_customer. Demo password: Demo@2026.
 - November 10: more compact mobile shopping, accessible account menus, earlier support input, simpler profile and file pages, and task navigation with persistent save/error feedback.
 - November 11: consistent page and table typography, softer status colors, compact task guidance, and a mobile live preview entry that keeps product prices visible and restores keyboard focus on close.
 - November 13: a new photograph-led store with a deep green feature area, clear product cards and search; a dark staff navigation and white work panels with accessible focus and responsive layouts.
+- November 15: recoverable catalog loading, dismissible filters, correct image previews and mobile checkout spacing; protected generation drafts and consistent image-upload destinations.
 - Demonstration workflows for catalog browsing, cart checkout, customer service, saved files, messages, and order fulfillment.
 - Live2D product presentations support product switching, pause/resume, and comments. AI content and payment remain simulated.
 - Smaller initial application dependencies and lossless WebP model textures reduce download size.
