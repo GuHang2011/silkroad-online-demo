@@ -18,6 +18,7 @@ Admin: demo_admin; customer: demo_customer. Demo password: Demo@2026.
 - November 15: recoverable catalog loading, dismissible filters, correct image previews and mobile checkout spacing; protected generation drafts and consistent image-upload destinations.
 - November 16: clearing file/message searches restores results, messages open without waiting for read receipts, support connections can retry, and live comments serialize send/delete operations.
 - November 18: recoverable order details and product image selection, guarded after-sales and account edits, consistent saved product data, and profile email persistence in the demo.
+- November 20: protected live script edits and inspection photo selection, recoverable message details, stable paused broadcasts, and safer digital host settings.
 - Demonstration workflows for catalog browsing, cart checkout, customer service, saved files, messages, and order fulfillment.
 - Live2D product presentations support product switching, pause/resume, and comments. AI content and payment remain simulated.
 - Smaller initial application dependencies and lossless WebP model textures reduce download size.
